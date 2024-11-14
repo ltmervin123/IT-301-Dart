@@ -1,0 +1,5 @@
+ID name username password role
+1 Aj aj aj123 employee
+2 Josh josh josh123 employee
+3 Vincent vincent vincent123 employee
+4 Aldrin aldrin aldrin employee
