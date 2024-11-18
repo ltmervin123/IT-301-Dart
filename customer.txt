@@ -1,0 +1,5 @@
+ID name username password role balance
+1 Alvincent alvin alvin123 customer 500
+2 Lanilyn lani lani123 customer 1000 
+3 Recardo recardo recardo123 customer 500
+4 Jaymar jaymar jaymar123 customer 500
